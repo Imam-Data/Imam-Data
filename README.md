@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Imam Ramdhani.
 
-<!--
-**Imam-Data/Imam-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently building my path as a **Data Analyst**.
 
-Here are some ideas to get you started:
+Instead of waiting for college, I decided to upskill myself through intensive courses and practical projects. I enjoy digging into datasets, cleaning them up, and finding insights that actually make sense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Current Focus:**
+I'm building my portfolio to prove that skills matter more than degrees. I work mainly with **SQL (MySQL)** for querying and **Excel** (PivotTables, Lookups) for analysis.
+
+🛠 **What I Can Do:**
+* **SQL:** Solving case studies with Joins, Aggregations, and filtering.
+* **Excel:** Creating dashboards and analyzing trends using PivotTables.
+* **Visualization:** Presenting data clearly so it's easy to understand.
+
+📂 **Recent Work:**
+* **Danny's Diner:** Solving restaurant business problems using SQL.
+* **Sales Dashboard:** Analyzing sales performance (Coursera Project).
+
+I am currently open to **Junior Data Analyst** or **Admin** roles where I can apply my skills and learn from a team.
+
+---
+[Email](mailto:itsimamr@gmail.com)
