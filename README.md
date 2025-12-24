@@ -1,15 +1,9 @@
-# Imam Ramdhani 👋
-**Junior Data Analyst | Detail-Oriented & Results-Driven**
+Junior Data Analyst | I Clean Data So You Can Trust It
 
-Building a career in data through practical execution. I specialize in cleaning messy data, querying databases with SQL, and building insightful dashboards.
+Let’s be honest—most raw data is a mess. I’m the person who actually enjoys fixing that. I spend my time diving into chaotic datasets, scrubbing them clean, and making sure they’re actually ready for analysis. My goal is simple: I want to make sure that when you see a report, you don't have to second-guess the numbers.
 
-### What I Bring to the Table
-* **SQL (MySQL):** Proficient in Joins, Aggregations, CTEs, and Window Functions.
-* **Advanced Excel:** Experienced in Data Cleaning (Text-to-Columns, Formatting), PivotTables, and Dashboarding.
-* **Data Integrity:** Strong habit of auditing and validating data quality before analysis.
+How I work: I do most of my heavy lifting in SQL (MySQL), where I’m used to building queries with CTEs, Window Functions, and complex Joins. If the job needs Excel, I’m all over it—from messy Text-to-Columns fixes to building PivotTables that actually make sense. To me, data integrity isn't just a "task"; it’s a non-negotiable habit. If the data is shaky, the insights are useless, and I’m not okay with that.
 
-### Recent Portfolio
-* **Global Layoffs Data Cleaning:** Successfully cleaned and standardized a 4,200-row dataset for SQL ingestion.
-* **Danny's Diner SQL Analysis:** Solved 10+ business questions regarding customer retention and spending habits.
+Recent wins: I recently tackled a Global Layoffs dataset, where I manually cleaned and standardized about 4,200 rows so it would actually work in SQL. I also finished the Danny’s Diner SQL challenge, where I solved 10+ different business puzzles about customer habits and retention.
 
- **Current Status:** Open to work as a **Junior Data Analyst** or **Admin**. I am eager to learn, adapt, and deliver results.
+Right now, I’m looking for a Junior Data Analyst or Admin role. I’m ready to jump in, help a team get their data in order, and keep learning as I go.
