@@ -9,7 +9,7 @@ Building a career in data through practical execution. I specialize in cleaning 
 ### 🛠️ Tech Stack & Skills
 
 **Core Tools:**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **What I Bring to the Table:**
@@ -23,8 +23,8 @@ Building a career in data through practical execution. I specialize in cleaning 
 
 | Project | Description | Key Skills |
 | :--- | :--- | :--- |
-| **Global Layoffs Data Cleaning** | Successfully cleaned and standardized a **4,200-row dataset** for SQL ingestion. | Data Cleaning, Standardization |
-| **Danny's Diner SQL Analysis** | Solved **10+ business questions** regarding customer retention and spending habits. | SQL (Joins, Aggregations), Business Logic |
+| [**Global Layoffs Data Cleaning**](https://github.com/Imam-Data/Global-Layoffs-Data-Cleaning) | Successfully cleaned and standardized a **4,200-row dataset** for SQL ingestion. | Data Cleaning, Standardization |
+| [**Danny's Diner SQL Analysis**](https://github.com/Imam-Data/SQL-Case-Study-Dannys-Diner) | Solved **10+ business questions** regarding customer retention and spending habits. | SQL (Joins, Aggregations), Business Logic |
 
 *(Note: Click on the project names above to view the code!)*
 
