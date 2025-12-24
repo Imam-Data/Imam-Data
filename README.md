@@ -1,4 +1,4 @@
-# Hi there, I'm a Junior Data Analyst! 👋
+# Hi there, I'm a Junior Data Analyst!
 
 ### Detail-Oriented & Results-Driven
 
@@ -6,7 +6,7 @@ Building a career in data through practical execution. I specialize in cleaning 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Core Tools:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -19,11 +19,12 @@ Building a career in data through practical execution. I specialize in cleaning 
 
 ---
 
-### 📂 Recent Portfolio
+### Recent Portfolio
 
 | Project | Description | Key Skills |
 | :--- | :--- | :--- |
-| [**Global Layoffs Data Cleaning**](https://github.com/Imam-Data/Global-Layoffs-Data-Cleaning) | Successfully cleaned and standardized a **4,200-row dataset** for SQL ingestion. | Data Cleaning, Standardization |
+| [**World Layoffs Exploration**](https://github.com/Imam-Data/World-Layoffs-Data-Analysis) | **End-to-End Analysis** of global crisis trends (2020-2025). Used advanced SQL for insights and built an interactive Excel Dashboard. | SQL (Window Functions, CTEs), Excel Dashboarding, Data Visualization |
+| [**Global Layoffs Data Cleaning**](https://github.com/Imam-Data/Global-Layoffs-Data-Cleaning) | Successfully cleaned and standardized a **4,200-row dataset** for SQL ingestion. | Data Cleaning, Standardization, SQL (DML/DDL) |
 | [**Danny's Diner SQL Analysis**](https://github.com/Imam-Data/SQL-Case-Study-Dannys-Diner) | Solved **10+ business questions** regarding customer retention and spending habits. | SQL (Joins, Aggregations), Business Logic |
 
 *(Note: Click on the project names above to view the code!)*
