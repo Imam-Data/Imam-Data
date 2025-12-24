@@ -1,65 +1,40 @@
-👋 Hi, I'm a Junior Data Analyst
+# Hi there, I'm a Junior Data Analyst! 👋
 
-Detail-oriented and results-driven. I build my data career through hands-on execution, not vibes.
+### Detail-Oriented & Results-Driven
 
-I specialize in:
+Building a career in data through practical execution. I specialize in cleaning messy data, querying databases with SQL, and building insightful dashboards.
 
-Cleaning messy, real-world data
+---
 
-Querying databases using SQL
+### 🛠️ Tech Stack & Skills
 
-Turning raw numbers into clear, actionable dashboards
+**Core Tools:**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Technical Skills
+**What I Bring to the Table:**
+* **SQL (MySQL):** Proficient in Joins, Aggregations, CTEs, and Window Functions.
+* **Advanced Excel:** Data Cleaning (Text-to-Columns, Formatting), PivotTables, and Dashboarding.
+* **Data Integrity:** Strong habit of auditing and validating data quality before analysis.
 
-SQL (MySQL)
+---
 
-Joins (INNER, LEFT, RIGHT)
+### 📂 Recent Portfolio
 
-Aggregations
+| Project | Description | Key Skills |
+| :--- | :--- | :--- |
+| **Global Layoffs Data Cleaning** | Successfully cleaned and standardized a **4,200-row dataset** for SQL ingestion. | Data Cleaning, Standardization |
+| **Danny's Diner SQL Analysis** | Solved **10+ business questions** regarding customer retention and spending habits. | SQL (Joins, Aggregations), Business Logic |
 
-CTEs
+*(Note: Click on the project names above to view the code!)*
 
-Window Functions
+---
 
-Excel (Advanced)
+### 🚀 Current Status
+**Open to work** as a **Junior Data Analyst** or **Admin**.
+I am eager to learn, adapt, and deliver results.
 
-Data Cleaning (Text-to-Columns, Formatting)
+---
 
-PivotTables
-
-Dashboard Creation
-
-Data Quality & Integrity
-
-Data auditing and validation before analysis
-
-Consistent handling of duplicates, nulls, and inconsistent formats
-
-📂 Portfolio Projects
-
-Global Layoffs – Data Cleaning
-
-Cleaned and standardized a 4,200-row dataset
-
-Prepared data for SQL ingestion and analysis
-
-Focus on consistency, null handling, and data accuracy
-
-Danny’s Diner – SQL Case Study
-
-Answered 10+ business questions
-
-Analyzed customer retention, spending behavior, and menu performance
-
-Used joins, aggregations, and window functions
-
-📌 Current Status
-
-Open to opportunities as:
-
-Junior Data Analyst
-
-Data/Admin roles
-
-Eager to learn, adapt quickly, and deliver reliable results.
+### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsimamr@gmail.com)
