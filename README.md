@@ -1,9 +1,26 @@
-Junior Data Analyst | I Clean Data So You Can Trust It
+👋 Junior Data Analyst
+I Clean Data So You Can Trust It
 
-Let’s be honest—most raw data is a mess. I’m the person who actually enjoys fixing that. I spend my time diving into chaotic datasets, scrubbing them clean, and making sure they’re actually ready for analysis. My goal is simple: I want to make sure that when you see a report, you don't have to second-guess the numbers.
+Let’s be honest. Most raw data is a mess. I’m the person who actually enjoys fixing it.
 
-How I work: I do most of my heavy lifting in SQL (MySQL), where I’m used to building queries with CTEs, Window Functions, and complex Joins. If the job needs Excel, I’m all over it—from messy Text-to-Columns fixes to building PivotTables that actually make sense. To me, data integrity isn't just a "task"; it’s a non-negotiable habit. If the data is shaky, the insights are useless, and I’m not okay with that.
+I spend my time diving into chaotic datasets, cleaning them up, and making sure they’re truly ready for analysis. My goal is simple: when you look at a report, you shouldn’t have to second-guess the numbers behind it.
 
-Recent wins: I recently tackled a Global Layoffs dataset, where I manually cleaned and standardized about 4,200 rows so it would actually work in SQL. I also finished the Danny’s Diner SQL challenge, where I solved 10+ different business puzzles about customer habits and retention.
+How I Work
 
-Right now, I’m looking for a Junior Data Analyst or Admin role. I’m ready to jump in, help a team get their data in order, and keep learning as I go.
+Most of my heavy lifting happens in SQL (MySQL). I’m comfortable writing queries with CTEs, window functions, and complex joins to answer real business questions.
+
+When Excel is the right tool, I use it properly. From untangling messy text-to-columns issues to building PivotTables and clean dashboards that actually make sense.
+
+For me, data integrity isn’t optional. If the data is shaky, the insights are useless, and I don’t move forward until the numbers can be trusted.
+
+Recent Work
+
+Global Layoffs Dataset
+Cleaned and standardized ~4,200 rows of raw data so it could be reliably analyzed in SQL.
+
+Danny’s Diner SQL Case Study
+Solved 10+ business questions focused on customer behavior, spending patterns, and retention.
+
+What I’m Looking For
+
+I’m currently open to Junior Data Analyst or Admin roles. Ready to jump in, help teams get their data in order, and keep learning along the way.
