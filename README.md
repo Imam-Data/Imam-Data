@@ -30,7 +30,7 @@ Building a career in data through practical execution. I specialize in cleaning 
 
 ---
 
-### 🚀 Current Status
+### Current Status
 **Open to work** as a **Junior Data Analyst** or **Admin**.
 I am eager to learn, adapt, and deliver results.
 
