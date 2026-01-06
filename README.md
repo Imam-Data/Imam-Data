@@ -14,7 +14,7 @@ Building a career in data through practical execution. I specialize in cleaning 
 
 **What I Bring to the Table:**
 * **SQL (MySQL):** Proficient in Joins, Aggregations, CTEs, and Window Functions.
-* **Advanced Excel:** Data Cleaning (Text-to-Columns, Formatting), PivotTables, and Dashboarding.
+* **Advanced Excel:** Data Cleaning, PivotTables, and Dashboarding.
 * **Data Integrity:** Strong habit of auditing and validating data quality before analysis.
 
 ---
