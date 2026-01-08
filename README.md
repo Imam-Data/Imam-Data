@@ -23,7 +23,7 @@ Building a career in data through practical execution. I specialize in transform
 
 | Project | Description | Key Skills |
 | :--- | :--- | :--- |
-| [**Coffee Shop Sales Dashboard**](https://github.com/Imam-Data/Coffee-Sales-Dashboard-Analysis) | **End-to-End Analysis** of retail sales data. Built a fully interactive dashboard to track KPIs, identify top-selling products, and uncover **Customer Loyalty** opportunities. | Excel Dashboarding, Data Modeling, Slicers & Timeline, XLOOKUP |
+| [**Coffee Shop Sales Dashboard**](https://github.com/Imam-Data/Coffee-Sales-Dashboard) | **End-to-End Excel Project**. Built a fully interactive dashboard to track Sales KPIs. Uncovered key insights: **2.5kg bags** are best-sellers & **Top Customers** lack Loyalty Cards. | Excel Dashboarding, Data Modeling, Slicers & Timeline, XLOOKUP |
 | [**World Layoffs Exploration**](https://github.com/Imam-Data/World-Layoffs-Data-Analysis) | **Exploratory Data Analysis (EDA)** of global crisis trends (2020-2025). Used advanced SQL to analyze industry impacts and visualized results. | SQL (Window Functions, CTEs), Data Visualization |
 | [**Global Layoffs Data Cleaning**](https://github.com/Imam-Data/Global-Layoffs-Data-Cleaning) | Successfully cleaned and standardized a **4,200-row dataset** for SQL ingestion. Handled duplicates, null values, and data type standardization. | Data Cleaning, SQL (DML/DDL), Data Quality Assurance |
 | [**Danny's Diner SQL Analysis**](https://github.com/Imam-Data/SQL-Case-Study-Dannys-Diner) | Solved **10+ business questions** regarding customer retention and spending habits for a restaurant case study. | SQL (Joins, Aggregations), Business Logic |
