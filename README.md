@@ -1,8 +1,8 @@
-# Hi there, I'm a Junior Data Analyst!
+# Hi there, I'm a Junior Data Analyst! 👋
 
 ### Detail-Oriented & Results-Driven
 
-Building a career in data through practical execution. I specialize in cleaning messy data, querying databases with SQL, and building insightful dashboards.
+Building a career in data through practical execution. I specialize in transforming raw, messy data into actionable insights using SQL and building interactive dashboards in Excel.
 
 ---
 
@@ -13,9 +13,9 @@ Building a career in data through practical execution. I specialize in cleaning 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **What I Bring to the Table:**
-* **SQL (MySQL):** Proficient in Joins, Aggregations, CTEs, and Window Functions.
-* **Advanced Excel:** Data Cleaning, PivotTables, and Dashboarding.
-* **Data Integrity:** Strong habit of auditing and validating data quality before analysis.
+* **Advanced Excel:** Interactive Dashboards (Slicers, Timelines), Complex Formulas (XLOOKUP, INDEX-MATCH), and Pivot Reporting.
+* **SQL (MySQL):** Proficient in Joins, Aggregations, CTEs, Window Functions, and Data Cleaning.
+* **Business Acumen:** Ability to translate data trends into strategic recommendations (e.g., Inventory planning, Loyalty program analysis).
 
 ---
 
@@ -23,11 +23,12 @@ Building a career in data through practical execution. I specialize in cleaning 
 
 | Project | Description | Key Skills |
 | :--- | :--- | :--- |
-| [**World Layoffs Exploration**](https://github.com/Imam-Data/World-Layoffs-Data-Analysis) | **End-to-End Analysis** of global crisis trends (2020-2025). Used advanced SQL for insights and built an interactive Excel Dashboard. | SQL (Window Functions, CTEs), Excel Dashboarding, Data Visualization |
-| [**Global Layoffs Data Cleaning**](https://github.com/Imam-Data/Global-Layoffs-Data-Cleaning) | Successfully cleaned and standardized a **4,200-row dataset** for SQL ingestion. | Data Cleaning, Standardization, SQL (DML/DDL) |
-| [**Danny's Diner SQL Analysis**](https://github.com/Imam-Data/SQL-Case-Study-Dannys-Diner) | Solved **10+ business questions** regarding customer retention and spending habits. | SQL (Joins, Aggregations), Business Logic |
+| [**Coffee Shop Sales Dashboard**](https://github.com/Imam-Data/Coffee-Sales-Dashboard-Analysis) | **End-to-End Analysis** of retail sales data. Built a fully interactive dashboard to track KPIs, identify top-selling products, and uncover **Customer Loyalty** opportunities. | Excel Dashboarding, Data Modeling, Slicers & Timeline, XLOOKUP |
+| [**World Layoffs Exploration**](https://github.com/Imam-Data/World-Layoffs-Data-Analysis) | **Exploratory Data Analysis (EDA)** of global crisis trends (2020-2025). Used advanced SQL to analyze industry impacts and visualized results. | SQL (Window Functions, CTEs), Data Visualization |
+| [**Global Layoffs Data Cleaning**](https://github.com/Imam-Data/Global-Layoffs-Data-Cleaning) | Successfully cleaned and standardized a **4,200-row dataset** for SQL ingestion. Handled duplicates, null values, and data type standardization. | Data Cleaning, SQL (DML/DDL), Data Quality Assurance |
+| [**Danny's Diner SQL Analysis**](https://github.com/Imam-Data/SQL-Case-Study-Dannys-Diner) | Solved **10+ business questions** regarding customer retention and spending habits for a restaurant case study. | SQL (Joins, Aggregations), Business Logic |
 
-*(Note: Click on the project names above to view the code!)*
+*(Note: Click on the project names above to view the code & dashboards!)*
 
 ---
 
