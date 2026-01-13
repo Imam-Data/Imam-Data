@@ -2,7 +2,7 @@
 
 ### Detail-Oriented & Results-Driven
 
-Building a career in data through practical execution. I specialize in transforming raw, messy data into actionable insights using SQL and building interactive dashboards in Excel.
+Building a career in data through practical execution. I specialize in transforming raw, messy data into actionable insights using SQL, Power BI, and building interactive dashboards in Excel.
 
 ---
 
@@ -11,10 +11,12 @@ Building a career in data through practical execution. I specialize in transform
 **Core Tools:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 **What I Bring to the Table:**
-* **Advanced Excel:** Interactive Dashboards (Slicers, Timelines), Complex Formulas (XLOOKUP, INDEX-MATCH), and Pivot Reporting.
+* **Data Visualization (Power BI & Excel):** Developing end-to-end interactive dashboards, utilizing **DAX** for custom measures, and **Power Query** for automated ETL processes.
 * **SQL (MySQL):** Proficient in Joins, Aggregations, CTEs, Window Functions, and Data Cleaning.
+* **Advanced Excel:** Complex Formulas (XLOOKUP, INDEX-MATCH), Pivot Reporting, and Dynamic Dashboards.
 * **Business Acumen:** Ability to translate data trends into strategic recommendations (e.g., Inventory planning, Loyalty program analysis).
 
 ---
