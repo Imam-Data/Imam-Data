@@ -2,7 +2,7 @@
 
 ### Detail-Oriented & Results-Driven
 
-Building a career in data through practical execution. I specialize in transforming raw, messy data into actionable insights using SQL, Power BI, and building interactive dashboards in Excel.
+Building a career in data through practical execution. I specialize in transforming raw, messy data into actionable insights using SQL, Excel, and building interactive dashboards in Power BI.
 
 ---
 
